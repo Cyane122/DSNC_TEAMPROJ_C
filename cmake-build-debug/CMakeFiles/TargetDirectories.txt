@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/DSNC_TEAMPROJ/cmake-build-debug/CMakeFiles/DSNC_TEAMPROJ.dir
+C:/Users/User/CLionProjects/DSNC_TEAMPROJ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/DSNC_TEAMPROJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
